@@ -1,0 +1,8 @@
+.container {
+
+background-color: yellow;
+}
+
+.container.red {
+  background-color: red;
+}
